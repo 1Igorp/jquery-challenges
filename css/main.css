@@ -91,6 +91,10 @@ display: none;
   .nav li {
     display: block;
   }
+
+  .nav-main {
+    display: none;
+  }
 }
 
 /* PANELS */
