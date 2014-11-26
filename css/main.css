@@ -114,11 +114,13 @@ display: none;
   color: white;
   padding: 0.5em 1em;
   cursor: pointer;
+
 }
 .panel-title:hover {
   background: #34495e;
 }
 .panel-content {
+
   padding: 1em;
 }
 
