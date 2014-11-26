@@ -15,4 +15,6 @@ $('.panel-title').click(function(){
 
 
 $(this).next().slideToggle();
+
 });
+
